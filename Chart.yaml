@@ -1,0 +1,19 @@
+apiVersion: v2
+name: helm-chart
+description: A Helm chart for Kubernetes
+type: application
+version: 1.0.0
+appVersion: 1.0.0
+keywords:
+  - helm-chart
+  - helm
+maintainers:
+  - name: Arlen
+    email: arlen.tursunbekov.2001@gmail.com
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+name: helm-chart
+replicaCount: 1
+image:
+  repository: my-image-repo/my-app
+  pullPolicy: IfNotPresent
+  tag: v1.0.0
+service:
+  type: ClusterIP
+  port: 8080
